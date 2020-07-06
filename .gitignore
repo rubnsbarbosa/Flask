@@ -1,0 +1,10 @@
+# virtualenv
+venv-flask/
+
+# cache
+app/__pycache__/
+__pycache__/
+.pyc
+
+# Rope project settings
+.DS_Store

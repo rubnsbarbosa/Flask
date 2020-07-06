@@ -8,3 +8,4 @@ __pycache__/
 
 # Rope project settings
 .DS_Store
+.mako
